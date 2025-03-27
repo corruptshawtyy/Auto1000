@@ -1,0 +1,2007 @@
+letra = 1
+
+Tab::
+
+if (letra == 1)
+    SendInput, UM{!}
+else if (letra == 2)
+    SendInput, DOIS{!}
+else if (letra == 3)
+    SendInput, TRÊS{!}
+else if (letra == 4)
+    SendInput, QUATRO{!}
+else if (letra == 5)
+    SendInput, CINCO{!}
+else if (letra == 6)
+    SendInput, SEIS{!}
+else if (letra == 7)
+    SendInput, SETE{!}
+else if (letra == 8)
+    SendInput, OITO{!}
+else if (letra == 9)
+    SendInput, NOVE{!}
+else if (letra == 10)
+    SendInput, DEZ{!}
+else if (letra == 11)
+    SendInput, ONZE{!}
+else if (letra == 12)
+    SendInput, DOZE{!}
+else if (letra == 13)
+    SendInput, TREZE{!}
+else if (letra == 14)
+    SendInput, QUATORZE{!}
+else if (letra == 15)
+    SendInput, QUINZE{!}
+else if (letra == 16)
+    SendInput, DEZESSEIS{!}
+else if (letra == 17)
+    SendInput, DEZESSETE{!}
+else if (letra == 18)
+    SendInput, DEZOITO{!}
+else if (letra == 19)
+    SendInput, DEZENOVE{!}
+else if (letra == 20)
+    SendInput, VINTE{!}
+else if (letra == 21)
+    SendInput, VINTE E UM{!}
+else if (letra == 22)
+    SendInput, VINTE E DOIS{!}
+else if (letra == 23)
+    SendInput, VINTE E TRÊS{!}
+else if (letra == 24)
+    SendInput, VINTE E QUATRO{!}
+else if (letra == 25)
+    SendInput, VINTE E CINCO{!}
+else if (letra == 26)
+    SendInput, VINTE E SEIS{!}
+else if (letra == 27)
+    SendInput, VINTE E SETE{!}
+else if (letra == 28)
+    SendInput, VINTE E OITO{!}
+else if (letra == 29)
+    SendInput, VINTE E NOVE{!}
+else if (letra == 30)
+    SendInput, TRINTA{!}
+else if (letra == 31)
+    SendInput, TRINTA E UM{!}
+else if (letra == 32)
+    SendInput, TRINTA E DOIS{!}
+else if (letra == 33)
+    SendInput, TRINTA E TRÊS{!}
+else if (letra == 34)
+    SendInput, TRINTA E QUATRO{!}
+else if (letra == 35)
+    SendInput, TRINTA E CINCO{!}
+else if (letra == 36)
+    SendInput, TRINTA E SEIS{!}
+else if (letra == 37)
+    SendInput, TRINTA E SETE{!}
+else if (letra == 38)
+    SendInput, TRINTA E OITO{!}
+else if (letra == 39)
+    SendInput, TRINTA E NOVE{!}
+else if (letra == 40)
+    SendInput, QUARENTA{!}
+else if (letra == 41)
+    SendInput, QUARENTA E UM{!}
+else if (letra == 42)
+    SendInput, QUARENTA E DOIS{!}
+else if (letra == 43)
+    SendInput, QUARENTA E TRÊS{!}
+else if (letra == 44)
+    SendInput, QUARENTA E QUATRO{!}
+else if (letra == 45)
+    SendInput, QUARENTA E CINCO{!}
+else if (letra == 46)
+    SendInput, QUARENTA E SEIS{!}
+else if (letra == 47)
+    SendInput, QUARENTA E SETE{!}
+else if (letra == 48)
+    SendInput, QUARENTA E OITO{!}
+else if (letra == 49)
+    SendInput, QUARENTA E NOVE{!}
+else if (letra == 50)
+    SendInput, CINQUENTA{!}
+else if (letra == 51)
+    SendInput, CINQUENTA E UM{!}
+else if (letra == 52)
+    SendInput, CINQUENTA E DOIS{!}
+else if (letra == 53)
+    SendInput, CINQUENTA E TRÊS{!}
+else if (letra == 54)
+    SendInput, CINQUENTA E QUATRO{!}
+else if (letra == 55)
+    SendInput, CINQUENTA E CINCO{!}
+else if (letra == 56)
+    SendInput, CINQUENTA E SEIS{!}
+else if (letra == 57)
+    SendInput, CINQUENTA E SETE{!}
+else if (letra == 58)
+    SendInput, CINQUENTA E OITO{!}
+else if (letra == 59)
+    SendInput, CINQUENTA E NOVE{!}
+else if (letra == 60)
+    SendInput, SESSENTA{!}
+else if (letra == 61)
+    SendInput, SESSENTA E UM{!}
+else if (letra == 62)
+    SendInput, SESSENTA E DOIS{!}
+else if (letra == 63)
+    SendInput, SESSENTA E TRÊS{!}
+else if (letra == 64)
+    SendInput, SESSENTA E QUATRO{!}
+else if (letra == 65)
+    SendInput, SESSENTA E CINCO{!}
+else if (letra == 66)
+    SendInput, SESSENTA E SEIS{!}
+else if (letra == 67)
+    SendInput, SESSENTA E SETE{!}
+else if (letra == 68)
+    SendInput, SESSENTA E OITO{!}
+else if (letra == 69)
+    SendInput, SESSENTA E NOVE{!}
+else if (letra == 70)
+    SendInput, SETENTA{!}
+else if (letra == 71)
+    SendInput, SETENTA E UM{!}
+else if (letra == 72)
+    SendInput, SETENTA E DOIS{!}
+else if (letra == 73)
+    SendInput, SETENTA E TRÊS{!}
+else if (letra == 74)
+    SendInput, SETENTA E QUATRO{!}
+else if (letra == 75)
+    SendInput, SETENTA E CINCO{!}
+else if (letra == 76)
+    SendInput, SETENTA E SEIS{!}
+else if (letra == 77)
+    SendInput, SETENTA E SETE{!}
+else if (letra == 78)
+    SendInput, SETENTA E OITO{!}
+else if (letra == 79)
+    SendInput, SETENTA E NOVE{!}
+else if (letra == 80)
+    SendInput, OITENTA{!}
+else if (letra == 81)
+    SendInput, OITENTA E UM{!}
+else if (letra == 82)
+    SendInput, OITENTA E DOIS{!}
+else if (letra == 83)
+    SendInput, OITENTA E TRÊS{!}
+else if (letra == 84)
+    SendInput, OITENTA E QUATRO{!}
+else if (letra == 85)
+    SendInput, OITENTA E CINCO{!}
+else if (letra == 86)
+    SendInput, OITENTA E SEIS{!}
+else if (letra == 87)
+    SendInput, OITENTA E SETE{!}
+else if (letra == 88)
+    SendInput, OITENTA E OITO{!}
+else if (letra == 89)
+    SendInput, OITENTA E NOVE{!}
+else if (letra == 90)
+    SendInput, NOVENTA{!}
+else if (letra == 91)
+    SendInput, NOVENTA E UM{!}
+else if (letra == 92)
+    SendInput, NOVENTA E DOIS{!}
+else if (letra == 93)
+    SendInput, NOVENTA E TRÊS{!}
+else if (letra == 94)
+    SendInput, NOVENTA E QUATRO{!}
+else if (letra == 95)
+    SendInput, NOVENTA E CINCO{!}
+else if (letra == 96)
+    SendInput, NOVENTA E SEIS{!}
+else if (letra == 97)
+    SendInput, NOVENTA E SETE{!}
+else if (letra == 98)
+    SendInput, NOVENTA E OITO{!}
+else if (letra == 99)
+    SendInput, NOVENTA E NOVE{!}
+else if (letra == 100)
+    SendInput, CEM{!}
+else if (letra == 101)
+    SendInput, CENTO E UM{!}
+else if (letra == 102)
+    SendInput, CENTO E DOIS{!}
+else if (letra == 103)
+    SendInput, CENTO E TRÊS{!}
+else if (letra == 104)
+    SendInput, CENTO E QUATRO{!}
+else if (letra == 105)
+    SendInput, CENTO E CINCO{!}
+else if (letra == 106)
+    SendInput, CENTO E SEIS{!}
+else if (letra == 107)
+    SendInput, CENTO E SETE{!}
+else if (letra == 108)
+    SendInput, CENTO E OITO{!}
+else if (letra == 109)
+    SendInput, CENTO E NOVE{!}
+else if (letra == 110)
+    SendInput, CENTO E DEZ{!}
+else if (letra == 111)
+    SendInput, CENTO E ONZE{!}
+else if (letra == 112)
+    SendInput, CENTO E DOZE{!}
+else if (letra == 113)
+    SendInput, CENTO E TREZE{!}
+else if (letra == 114)
+    SendInput, CENTO E QUATORZE{!}
+else if (letra == 115)
+    SendInput, CENTO E QUINZE{!}
+else if (letra == 116)
+    SendInput, CENTO E DEZESSEIS{!}
+else if (letra == 117)
+    SendInput, CENTO E DEZESSETE{!}
+else if (letra == 118)
+    SendInput, CENTO E DEZOITO{!}
+else if (letra == 119)
+    SendInput, CENTO E DEZENOVE{!}
+else if (letra == 120)
+    SendInput, CENTO E VINTE{!}
+else if (letra == 121)
+    SendInput, CENTO E VINTE E UM{!}
+else if (letra == 122)
+    SendInput, CENTO E VINTE E DOIS{!}
+else if (letra == 123)
+    SendInput, CENTO E VINTE E TRÊS{!}
+else if (letra == 124)
+    SendInput, CENTO E VINTE E QUATRO{!}
+else if (letra == 125)
+    SendInput, CENTO E VINTE E CINCO{!}
+else if (letra == 126)
+    SendInput, CENTO E VINTE E SEIS{!}
+else if (letra == 127)
+    SendInput, CENTO E VINTE E SETE{!}
+else if (letra == 128)
+    SendInput, CENTO E VINTE E OITO{!}
+else if (letra == 129)
+    SendInput, CENTO E VINTE E NOVE{!}
+else if (letra == 130)
+    SendInput, CENTO E TRINTA{!}
+else if (letra == 131)
+    SendInput, CENTO E TRINTA E UM{!}
+else if (letra == 132)
+    SendInput, CENTO E TRINTA E DOIS{!}
+else if (letra == 133)
+    SendInput, CENTO E TRINTA E TRÊS{!}
+else if (letra == 134)
+    SendInput, CENTO E TRINTA E QUATRO{!}
+else if (letra == 135)
+    SendInput, CENTO E TRINTA E CINCO{!}
+else if (letra == 136)
+    SendInput, CENTO E TRINTA E SEIS{!}
+else if (letra == 137)
+    SendInput, CENTO E TRINTA E SETE{!}
+else if (letra == 138)
+    SendInput, CENTO E TRINTA E OITO{!}
+else if (letra == 139)
+    SendInput, CENTO E TRINTA E NOVE{!}
+else if (letra == 140)
+    SendInput, CENTO E QUARENTA{!}
+else if (letra == 141)
+    SendInput, CENTO E QUARENTA E UM{!}
+else if (letra == 142)
+    SendInput, CENTO E QUARENTA E DOIS{!}
+else if (letra == 143)
+    SendInput, CENTO E QUARENTA E TRÊS{!}
+else if (letra == 144)
+    SendInput, CENTO E QUARENTA E QUATRO{!}
+else if (letra == 145)
+    SendInput, CENTO E QUARENTA E CINCO{!}
+else if (letra == 146)
+    SendInput, CENTO E QUARENTA E SEIS{!}
+else if (letra == 147)
+    SendInput, CENTO E QUARENTA E SETE{!}
+else if (letra == 148)
+    SendInput, CENTO E QUARENTA E OITO{!}
+else if (letra == 149)
+    SendInput, CENTO E QUARENTA E NOVE{!}
+else if (letra == 150)
+    SendInput, CENTO E CINQUENTA{!}
+else if (letra == 151)
+    SendInput, CENTO E CINQUENTA E UM{!}
+else if (letra == 152)
+    SendInput, CENTO E CINQUENTA E DOIS{!}
+else if (letra == 153)
+    SendInput, CENTO E CINQUENTA E TRÊS{!}
+else if (letra == 154)
+    SendInput, CENTO E CINQUENTA E QUATRO{!}
+else if (letra == 155)
+    SendInput, CENTO E CINQUENTA E CINCO{!}
+else if (letra == 156)
+    SendInput, CENTO E CINQUENTA E SEIS{!}
+else if (letra == 157)
+    SendInput, CENTO E CINQUENTA E SETE{!}
+else if (letra == 158)
+    SendInput, CENTO E CINQUENTA E OITO{!}
+else if (letra == 159)
+    SendInput, CENTO E CINQUENTA E NOVE{!}
+else if (letra == 160)
+    SendInput, CENTO E SESSENTA{!}
+else if (letra == 161)
+    SendInput, CENTO E SESSENTA E UM{!}
+else if (letra == 162)
+    SendInput, CENTO E SESSENTA E DOIS{!}
+else if (letra == 163)
+    SendInput, CENTO E SESSENTA E TRÊS{!}
+else if (letra == 164)
+    SendInput, CENTO E SESSENTA E QUATRO{!}
+else if (letra == 165)
+    SendInput, CENTO E SESSENTA E CINCO{!}
+else if (letra == 166)
+    SendInput, CENTO E SESSENTA E SEIS{!}
+else if (letra == 167)
+    SendInput, CENTO E SESSENTA E SETE{!}
+else if (letra == 168)
+    SendInput, CENTO E SESSENTA E OITO{!}
+else if (letra == 169)
+    SendInput, CENTO E SESSENTA E NOVE{!}
+else if (letra == 170)
+    SendInput, CENTO E SETENTA{!}
+else if (letra == 171)
+    SendInput, CENTO E SETENTA E UM{!}
+else if (letra == 172)
+    SendInput, CENTO E SETENTA E DOIS{!}
+else if (letra == 173)
+    SendInput, CENTO E SETENTA E TRÊS{!}
+else if (letra == 174)
+    SendInput, CENTO E SETENTA E QUATRO{!}
+else if (letra == 175)
+    SendInput, CENTO E SETENTA E CINCO{!}
+else if (letra == 176)
+    SendInput, CENTO E SETENTA E SEIS{!}
+else if (letra == 177)
+    SendInput, CENTO E SETENTA E SETE{!}
+else if (letra == 178)
+    SendInput, CENTO E SETENTA E OITO{!}
+else if (letra == 179)
+    SendInput, CENTO E SETENTA E NOVE{!}
+else if (letra == 180)
+    SendInput, CENTO E OITENTA{!}
+else if (letra == 181)
+    SendInput, CENTO E OITENTA E UM{!}
+else if (letra == 182)
+    SendInput, CENTO E OITENTA E DOIS{!}
+else if (letra == 183)
+    SendInput, CENTO E OITENTA E TRÊS{!}
+else if (letra == 184)
+    SendInput, CENTO E OITENTA E QUATRO{!}
+else if (letra == 185)
+    SendInput, CENTO E OITENTA E CINCO{!}
+else if (letra == 186)
+    SendInput, CENTO E OITENTA E SEIS{!}
+else if (letra == 187)
+    SendInput, CENTO E OITENTA E SETE{!}
+else if (letra == 188)
+    SendInput, CENTO E OITENTA E OITO{!}
+else if (letra == 189)
+    SendInput, CENTO E OITENTA E NOVE{!}
+else if (letra == 190)
+    SendInput, CENTO E NOVENTA{!}
+else if (letra == 191)
+    SendInput, CENTO E NOVENTA E UM{!}
+else if (letra == 192)
+    SendInput, CENTO E NOVENTA E DOIS{!}
+else if (letra == 193)
+    SendInput, CENTO E NOVENTA E TRÊS{!}
+else if (letra == 194)
+    SendInput, CENTO E NOVENTA E QUATRO{!}
+else if (letra == 195)
+    SendInput, CENTO E NOVENTA E CINCO{!}
+else if (letra == 196)
+    SendInput, CENTO E NOVENTA E SEIS{!}
+else if (letra == 197)
+    SendInput, CENTO E NOVENTA E SETE{!}
+else if (letra == 198)
+    SendInput, CENTO E NOVENTA E OITO{!}
+else if (letra == 199)
+    SendInput, CENTO E NOVENTA E NOVE{!}
+else if (letra == 200)
+    SendInput, DUZENTOS{!}
+else if (letra == 201)
+    SendInput, DUZENTOS E UM{!}
+else if (letra == 202)
+    SendInput, DUZENTOS E DOIS{!}
+else if (letra == 203)
+    SendInput, DUZENTOS E TRÊS{!}
+else if (letra == 204)
+    SendInput, DUZENTOS E QUATRO{!}
+else if (letra == 205)
+    SendInput, DUZENTOS E CINCO{!}
+else if (letra == 206)
+    SendInput, DUZENTOS E SEIS{!}
+else if (letra == 207)
+    SendInput, DUZENTOS E SETE{!}
+else if (letra == 208)
+    SendInput, DUZENTOS E OITO{!}
+else if (letra == 209)
+    SendInput, DUZENTOS E NOVE{!}
+else if (letra == 210)
+    SendInput, DUZENTOS E DEZ{!}
+else if (letra == 211)
+    SendInput, DUZENTOS E ONZE{!}
+else if (letra == 212)
+    SendInput, DUZENTOS E DOZE{!}
+else if (letra == 213)
+    SendInput, DUZENTOS E TREZE{!}
+else if (letra == 214)
+    SendInput, DUZENTOS E QUATORZE{!}
+else if (letra == 215)
+    SendInput, DUZENTOS E QUINZE{!}
+else if (letra == 216)
+    SendInput, DUZENTOS E DEZESSEIS{!}
+else if (letra == 217)
+    SendInput, DUZENTOS E DEZESSETE{!}
+else if (letra == 218)
+    SendInput, DUZENTOS E DEZOITO{!}
+else if (letra == 219)
+    SendInput, DUZENTOS E DEZENOVE{!}
+else if (letra == 220)
+    SendInput, DUZENTOS E VINTE{!}
+else if (letra == 221)
+    SendInput, DUZENTOS E VINTE E UM{!}
+else if (letra == 222)
+    SendInput, DUZENTOS E VINTE E DOIS{!}
+else if (letra == 223)
+    SendInput, DUZENTOS E VINTE E TRÊS{!}
+else if (letra == 224)
+    SendInput, DUZENTOS E VINTE E QUATRO{!}
+else if (letra == 225)
+    SendInput, DUZENTOS E VINTE E CINCO{!}
+else if (letra == 226)
+    SendInput, DUZENTOS E VINTE E SEIS{!}
+else if (letra == 227)
+    SendInput, DUZENTOS E VINTE E SETE{!}
+else if (letra == 228)
+    SendInput, DUZENTOS E VINTE E OITO{!}
+else if (letra == 229)
+    SendInput, DUZENTOS E VINTE E NOVE{!}
+else if (letra == 230)
+    SendInput, DUZENTOS E TRINTA{!}
+else if (letra == 231)
+    SendInput, DUZENTOS E TRINTA E UM{!}
+else if (letra == 232)
+    SendInput, DUZENTOS E TRINTA E DOIS{!}
+else if (letra == 233)
+    SendInput, DUZENTOS E TRINTA E TRÊS{!}
+else if (letra == 234)
+    SendInput, DUZENTOS E TRINTA E QUATRO{!}
+else if (letra == 235)
+    SendInput, DUZENTOS E TRINTA E CINCO{!}
+else if (letra == 236)
+    SendInput, DUZENTOS E TRINTA E SEIS{!}
+else if (letra == 237)
+    SendInput, DUZENTOS E TRINTA E SETE{!}
+else if (letra == 238)
+    SendInput, DUZENTOS E TRINTA E OITO{!}
+else if (letra == 239)
+    SendInput, DUZENTOS E TRINTA E NOVE{!}
+else if (letra == 240)
+    SendInput, DUZENTOS E QUARENTA{!}
+else if (letra == 241)
+    SendInput, DUZENTOS E QUARENTA E UM{!}
+else if (letra == 242)
+    SendInput, DUZENTOS E QUARENTA E DOIS{!}
+else if (letra == 243)
+    SendInput, DUZENTOS E QUARENTA E TRÊS{!}
+else if (letra == 244)
+    SendInput, DUZENTOS E QUARENTA E QUATRO{!}
+else if (letra == 245)
+    SendInput, DUZENTOS E QUARENTA E CINCO{!}
+else if (letra == 246)
+    SendInput, DUZENTOS E QUARENTA E SEIS{!}
+else if (letra == 247)
+    SendInput, DUZENTOS E QUARENTA E SETE{!}
+else if (letra == 248)
+    SendInput, DUZENTOS E QUARENTA E OITO{!}
+else if (letra == 249)
+    SendInput, DUZENTOS E QUARENTA E NOVE{!}
+else if (letra == 250)
+    SendInput, DUZENTOS E CINQUENTA{!}
+else if (letra == 251)
+    SendInput, DUZENTOS E CINQUENTA E UM{!}
+else if (letra == 252)
+    SendInput, DUZENTOS E CINQUENTA E DOIS{!}
+else if (letra == 253)
+    SendInput, DUZENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 254)
+    SendInput, DUZENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 255)
+    SendInput, DUZENTOS E CINQUENTA E CINCO{!}
+else if (letra == 256)
+    SendInput, DUZENTOS E CINQUENTA E SEIS{!}
+else if (letra == 257)
+    SendInput, DUZENTOS E CINQUENTA E SETE{!}
+else if (letra == 258)
+    SendInput, DUZENTOS E CINQUENTA E OITO{!}
+else if (letra == 259)
+    SendInput, DUZENTOS E CINQUENTA E NOVE{!}
+else if (letra == 260)
+    SendInput, DUZENTOS E SESSENTA{!}
+else if (letra == 261)
+    SendInput, DUZENTOS E SESSENTA E UM{!}
+else if (letra == 262)
+    SendInput, DUZENTOS E SESSENTA E DOIS{!}
+else if (letra == 263)
+    SendInput, DUZENTOS E SESSENTA E TRÊS{!}
+else if (letra == 264)
+    SendInput, DUZENTOS E SESSENTA E QUATRO{!}
+else if (letra == 265)
+    SendInput, DUZENTOS E SESSENTA E CINCO{!}
+else if (letra == 266)
+    SendInput, DUZENTOS E SESSENTA E SEIS{!}
+else if (letra == 267)
+    SendInput, DUZENTOS E SESSENTA E SETE{!}
+else if (letra == 268)
+    SendInput, DUZENTOS E SESSENTA E OITO{!}
+else if (letra == 269)
+    SendInput, DUZENTOS E SESSENTA E NOVE{!}
+else if (letra == 270)
+    SendInput, DUZENTOS E SETENTA{!}
+else if (letra == 271)
+    SendInput, DUZENTOS E SETENTA E UM{!}
+else if (letra == 272)
+    SendInput, DUZENTOS E SETENTA E DOIS{!}
+else if (letra == 273)
+    SendInput, DUZENTOS E SETENTA E TRÊS{!}
+else if (letra == 274)
+    SendInput, DUZENTOS E SETENTA E QUATRO{!}
+else if (letra == 275)
+    SendInput, DUZENTOS E SETENTA E CINCO{!}
+else if (letra == 276)
+    SendInput, DUZENTOS E SETENTA E SEIS{!}
+else if (letra == 277)
+    SendInput, DUZENTOS E SETENTA E SETE{!}
+else if (letra == 278)
+    SendInput, DUZENTOS E SETENTA E OITO{!}
+else if (letra == 279)
+    SendInput, DUZENTOS E SETENTA E NOVE{!}
+else if (letra == 280)
+    SendInput, DUZENTOS E OITENTA{!}
+else if (letra == 281)
+    SendInput, DUZENTOS E OITENTA E UM{!}
+else if (letra == 282)
+    SendInput, DUZENTOS E OITENTA E DOIS{!}
+else if (letra == 283)
+    SendInput, DUZENTOS E OITENTA E TRÊS{!}
+else if (letra == 284)
+    SendInput, DUZENTOS E OITENTA E QUATRO{!}
+else if (letra == 285)
+    SendInput, DUZENTOS E OITENTA E CINCO{!}
+else if (letra == 286)
+    SendInput, DUZENTOS E OITENTA E SEIS{!}
+else if (letra == 287)
+    SendInput, DUZENTOS E OITENTA E SETE{!}
+else if (letra == 288)
+    SendInput, DUZENTOS E OITENTA E OITO{!}
+else if (letra == 289)
+    SendInput, DUZENTOS E OITENTA E NOVE{!}
+else if (letra == 290)
+    SendInput, DUZENTOS E NOVENTA{!}
+else if (letra == 291)
+    SendInput, DUZENTOS E NOVENTA E UM{!}
+else if (letra == 292)
+    SendInput, DUZENTOS E NOVENTA E DOIS{!}
+else if (letra == 293)
+    SendInput, DUZENTOS E NOVENTA E TRÊS{!}
+else if (letra == 294)
+    SendInput, DUZENTOS E NOVENTA E QUATRO{!}
+else if (letra == 295)
+    SendInput, DUZENTOS E NOVENTA E CINCO{!}
+else if (letra == 296)
+    SendInput, DUZENTOS E NOVENTA E SEIS{!}
+else if (letra == 297)
+    SendInput, DUZENTOS E NOVENTA E SETE{!}
+else if (letra == 298)
+    SendInput, DUZENTOS E NOVENTA E OITO{!}
+else if (letra == 299)
+    SendInput, DUZENTOS E NOVENTA E NOVE{!}
+else if (letra == 300)
+    SendInput, TREZENTOS{!}
+else if (letra == 301)
+    SendInput, TREZENTOS E UM{!}
+else if (letra == 302)
+    SendInput, TREZENTOS E DOIS{!}
+else if (letra == 303)
+    SendInput, TREZENTOS E TRÊS{!}
+else if (letra == 304)
+    SendInput, TREZENTOS E QUATRO{!}
+else if (letra == 305)
+    SendInput, TREZENTOS E CINCO{!}
+else if (letra == 306)
+    SendInput, TREZENTOS E SEIS{!}
+else if (letra == 307)
+    SendInput, TREZENTOS E SETE{!}
+else if (letra == 308)
+    SendInput, TREZENTOS E OITO{!}
+else if (letra == 309)
+    SendInput, TREZENTOS E NOVE{!}
+else if (letra == 310)
+    SendInput, TREZENTOS E DEZ{!}
+else if (letra == 311)
+    SendInput, TREZENTOS E ONZE{!}
+else if (letra == 312)
+    SendInput, TREZENTOS E DOZE{!}
+else if (letra == 313)
+    SendInput, TREZENTOS E TREZE{!}
+else if (letra == 314)
+    SendInput, TREZENTOS E QUATORZE{!}
+else if (letra == 315)
+    SendInput, TREZENTOS E QUINZE{!}
+else if (letra == 316)
+    SendInput, TREZENTOS E DEZESSEIS{!}
+else if (letra == 317)
+    SendInput, TREZENTOS E DEZESSETE{!}
+else if (letra == 318)
+    SendInput, TREZENTOS E DEZOITO{!}
+else if (letra == 319)
+    SendInput, TREZENTOS E DEZENOVE{!}
+else if (letra == 320)
+    SendInput, TREZENTOS E VINTE{!}
+else if (letra == 321)
+    SendInput, TREZENTOS E VINTE E UM{!}
+else if (letra == 322)
+    SendInput, TREZENTOS E VINTE E DOIS{!}
+else if (letra == 323)
+    SendInput, TREZENTOS E VINTE E TRÊS{!}
+else if (letra == 324)
+    SendInput, TREZENTOS E VINTE E QUATRO{!}
+else if (letra == 325)
+    SendInput, TREZENTOS E VINTE E CINCO{!}
+else if (letra == 326)
+    SendInput, TREZENTOS E VINTE E SEIS{!}
+else if (letra == 327)
+    SendInput, TREZENTOS E VINTE E SETE{!}
+else if (letra == 328)
+    SendInput, TREZENTOS E VINTE E OITO{!}
+else if (letra == 329)
+    SendInput, TREZENTOS E VINTE E NOVE{!}
+else if (letra == 330)
+    SendInput, TREZENTOS E TRINTA{!}
+else if (letra == 331)
+    SendInput, TREZENTOS E TRINTA E UM{!}
+else if (letra == 332)
+    SendInput, TREZENTOS E TRINTA E DOIS{!}
+else if (letra == 333)
+    SendInput, TREZENTOS E TRINTA E TRÊS{!}
+else if (letra == 334)
+    SendInput, TREZENTOS E TRINTA E QUATRO{!}
+else if (letra == 335)
+    SendInput, TREZENTOS E TRINTA E CINCO{!}
+else if (letra == 336)
+    SendInput, TREZENTOS E TRINTA E SEIS{!}
+else if (letra == 337)
+    SendInput, TREZENTOS E TRINTA E SETE{!}
+else if (letra == 338)
+    SendInput, TREZENTOS E TRINTA E OITO{!}
+else if (letra == 339)
+    SendInput, TREZENTOS E TRINTA E NOVE{!}
+else if (letra == 340)
+    SendInput, TREZENTOS E QUARENTA{!}
+else if (letra == 341)
+    SendInput, TREZENTOS E QUARENTA E UM{!}
+else if (letra == 342)
+    SendInput, TREZENTOS E QUARENTA E DOIS{!}
+else if (letra == 343)
+    SendInput, TREZENTOS E QUARENTA E TRÊS{!}
+else if (letra == 344)
+    SendInput, TREZENTOS E QUARENTA E QUATRO{!}
+else if (letra == 345)
+    SendInput, TREZENTOS E QUARENTA E CINCO{!}
+else if (letra == 346)
+    SendInput, TREZENTOS E QUARENTA E SEIS{!}
+else if (letra == 347)
+    SendInput, TREZENTOS E QUARENTA E SETE{!}
+else if (letra == 348)
+    SendInput, TREZENTOS E QUARENTA E OITO{!}
+else if (letra == 349)
+    SendInput, TREZENTOS E QUARENTA E NOVE{!}
+else if (letra == 350)
+    SendInput, TREZENTOS E CINQUENTA{!}
+else if (letra == 351)
+    SendInput, TREZENTOS E CINQUENTA E UM{!}
+else if (letra == 352)
+    SendInput, TREZENTOS E CINQUENTA E DOIS{!}
+else if (letra == 353)
+    SendInput, TREZENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 354)
+    SendInput, TREZENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 355)
+    SendInput, TREZENTOS E CINQUENTA E CINCO{!}
+else if (letra == 356)
+    SendInput, TREZENTOS E CINQUENTA E SEIS{!}
+else if (letra == 357)
+    SendInput, TREZENTOS E CINQUENTA E SETE{!}
+else if (letra == 358)
+    SendInput, TREZENTOS E CINQUENTA E OITO{!}
+else if (letra == 359)
+    SendInput, TREZENTOS E CINQUENTA E NOVE{!}
+else if (letra == 360)
+    SendInput, TREZENTOS E SESSENTA{!}
+else if (letra == 361)
+    SendInput, TREZENTOS E SESSENTA E UM{!}
+else if (letra == 362)
+    SendInput, TREZENTOS E SESSENTA E DOIS{!}
+else if (letra == 363)
+    SendInput, TREZENTOS E SESSENTA E TRÊS{!}
+else if (letra == 364)
+    SendInput, TREZENTOS E SESSENTA E QUATRO{!}
+else if (letra == 365)
+    SendInput, TREZENTOS E SESSENTA E CINCO{!}
+else if (letra == 366)
+    SendInput, TREZENTOS E SESSENTA E SEIS{!}
+else if (letra == 367)
+    SendInput, TREZENTOS E SESSENTA E SETE{!}
+else if (letra == 368)
+    SendInput, TREZENTOS E SESSENTA E OITO{!}
+else if (letra == 369)
+    SendInput, TREZENTOS E SESSENTA E NOVE{!}
+else if (letra == 370)
+    SendInput, TREZENTOS E SETENTA{!}
+else if (letra == 371)
+    SendInput, TREZENTOS E SETENTA E UM{!}
+else if (letra == 372)
+    SendInput, TREZENTOS E SETENTA E DOIS{!}
+else if (letra == 373)
+    SendInput, TREZENTOS E SETENTA E TRÊS{!}
+else if (letra == 374)
+    SendInput, TREZENTOS E SETENTA E QUATRO{!}
+else if (letra == 375)
+    SendInput, TREZENTOS E SETENTA E CINCO{!}
+else if (letra == 376)
+    SendInput, TREZENTOS E SETENTA E SEIS{!}
+else if (letra == 377)
+    SendInput, TREZENTOS E SETENTA E SETE{!}
+else if (letra == 378)
+    SendInput, TREZENTOS E SETENTA E OITO{!}
+else if (letra == 379)
+    SendInput, TREZENTOS E SETENTA E NOVE{!}
+else if (letra == 380)
+    SendInput, TREZENTOS E OITENTA{!}
+else if (letra == 381)
+    SendInput, TREZENTOS E OITENTA E UM{!}
+else if (letra == 382)
+    SendInput, TREZENTOS E OITENTA E DOIS{!}
+else if (letra == 383)
+    SendInput, TREZENTOS E OITENTA E TRÊS{!}
+else if (letra == 384)
+    SendInput, TREZENTOS E OITENTA E QUATRO{!}
+else if (letra == 385)
+    SendInput, TREZENTOS E OITENTA E CINCO{!}
+else if (letra == 386)
+    SendInput, TREZENTOS E OITENTA E SEIS{!}
+else if (letra == 387)
+    SendInput, TREZENTOS E OITENTA E SETE{!}
+else if (letra == 388)
+    SendInput, TREZENTOS E OITENTA E OITO{!}
+else if (letra == 389)
+    SendInput, TREZENTOS E OITENTA E NOVE{!}
+else if (letra == 390)
+    SendInput, TREZENTOS E NOVENTA{!}
+else if (letra == 391)
+    SendInput, TREZENTOS E NOVENTA E UM{!}
+else if (letra == 392)
+    SendInput, TREZENTOS E NOVENTA E DOIS{!}
+else if (letra == 393)
+    SendInput, TREZENTOS E NOVENTA E TRÊS{!}
+else if (letra == 394)
+    SendInput, TREZENTOS E NOVENTA E QUATRO{!}
+else if (letra == 395)
+    SendInput, TREZENTOS E NOVENTA E CINCO{!}
+else if (letra == 396)
+    SendInput, TREZENTOS E NOVENTA E SEIS{!}
+else if (letra == 397)
+    SendInput, TREZENTOS E NOVENTA E SETE{!}
+else if (letra == 398)
+    SendInput, TREZENTOS E NOVENTA E OITO{!}
+else if (letra == 399)
+    SendInput, TREZENTOS E NOVENTA E NOVE{!}
+else if (letra == 400)
+    SendInput, QUATROCENTOS{!}
+else if (letra == 401)
+    SendInput, QUATROCENTOS E UM{!}
+else if (letra == 402)
+    SendInput, QUATROCENTOS E DOIS{!}
+else if (letra == 403)
+    SendInput, QUATROCENTOS E TRÊS{!}
+else if (letra == 404)
+    SendInput, QUATROCENTOS E QUATRO{!}
+else if (letra == 405)
+    SendInput, QUATROCENTOS E CINCO{!}
+else if (letra == 406)
+    SendInput, QUATROCENTOS E SEIS{!}
+else if (letra == 407)
+    SendInput, QUATROCENTOS E SETE{!}
+else if (letra == 408)
+    SendInput, QUATROCENTOS E OITO{!}
+else if (letra == 409)
+    SendInput, QUATROCENTOS E NOVE{!}
+else if (letra == 410)
+    SendInput, QUATROCENTOS E DEZ{!}
+else if (letra == 411)
+    SendInput, QUATROCENTOS E ONZE{!}
+else if (letra == 412)
+    SendInput, QUATROCENTOS E DOZE{!}
+else if (letra == 413)
+    SendInput, QUATROCENTOS E TREZE{!}
+else if (letra == 414)
+    SendInput, QUATROCENTOS E QUATORZE{!}
+else if (letra == 415)
+    SendInput, QUATROCENTOS E QUINZE{!}
+else if (letra == 416)
+    SendInput, QUATROCENTOS E DEZESSEIS{!}
+else if (letra == 417)
+    SendInput, QUATROCENTOS E DEZESSETE{!}
+else if (letra == 418)
+    SendInput, QUATROCENTOS E DEZOITO{!}
+else if (letra == 419)
+    SendInput, QUATROCENTOS E DEZENOVE{!}
+else if (letra == 420)
+    SendInput, QUATROCENTOS E VINTE{!}
+else if (letra == 421)
+    SendInput, QUATROCENTOS E VINTE E UM{!}
+else if (letra == 422)
+    SendInput, QUATROCENTOS E VINTE E DOIS{!}
+else if (letra == 423)
+    SendInput, QUATROCENTOS E VINTE E TRÊS{!}
+else if (letra == 424)
+    SendInput, QUATROCENTOS E VINTE E QUATRO{!}
+else if (letra == 425)
+    SendInput, QUATROCENTOS E VINTE E CINCO{!}
+else if (letra == 426)
+    SendInput, QUATROCENTOS E VINTE E SEIS{!}
+else if (letra == 427)
+    SendInput, QUATROCENTOS E VINTE E SETE{!}
+else if (letra == 428)
+    SendInput, QUATROCENTOS E VINTE E OITO{!}
+else if (letra == 429)
+    SendInput, QUATROCENTOS E VINTE E NOVE{!}
+else if (letra == 430)
+    SendInput, QUATROCENTOS E TRINTA{!}
+else if (letra == 431)
+    SendInput, QUATROCENTOS E TRINTA E UM{!}
+else if (letra == 432)
+    SendInput, QUATROCENTOS E TRINTA E DOIS{!}
+else if (letra == 433)
+    SendInput, QUATROCENTOS E TRINTA E TRÊS{!}
+else if (letra == 434)
+    SendInput, QUATROCENTOS E TRINTA E QUATRO{!}
+else if (letra == 435)
+    SendInput, QUATROCENTOS E TRINTA E CINCO{!}
+else if (letra == 436)
+    SendInput, QUATROCENTOS E TRINTA E SEIS{!}
+else if (letra == 437)
+    SendInput, QUATROCENTOS E TRINTA E SETE{!}
+else if (letra == 438)
+    SendInput, QUATROCENTOS E TRINTA E OITO{!}
+else if (letra == 439)
+    SendInput, QUATROCENTOS E TRINTA E NOVE{!}
+else if (letra == 440)
+    SendInput, QUATROCENTOS E QUARENTA{!}
+else if (letra == 441)
+    SendInput, QUATROCENTOS E QUARENTA E UM{!}
+else if (letra == 442)
+    SendInput, QUATROCENTOS E QUARENTA E DOIS{!}
+else if (letra == 443)
+    SendInput, QUATROCENTOS E QUARENTA E TRÊS{!}
+else if (letra == 444)
+    SendInput, QUATROCENTOS E QUARENTA E QUATRO{!}
+else if (letra == 445)
+    SendInput, QUATROCENTOS E QUARENTA E CINCO{!}
+else if (letra == 446)
+    SendInput, QUATROCENTOS E QUARENTA E SEIS{!}
+else if (letra == 447)
+    SendInput, QUATROCENTOS E QUARENTA E SETE{!}
+else if (letra == 448)
+    SendInput, QUATROCENTOS E QUARENTA E OITO{!}
+else if (letra == 449)
+    SendInput, QUATROCENTOS E QUARENTA E NOVE{!}
+else if (letra == 450)
+    SendInput, QUATROCENTOS E CINQUENTA{!}
+else if (letra == 451)
+    SendInput, QUATROCENTOS E CINQUENTA E UM{!}
+else if (letra == 452)
+    SendInput, QUATROCENTOS E CINQUENTA E DOIS{!}
+else if (letra == 453)
+    SendInput, QUATROCENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 454)
+    SendInput, QUATROCENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 455)
+    SendInput, QUATROCENTOS E CINQUENTA E CINCO{!}
+else if (letra == 456)
+    SendInput, QUATROCENTOS E CINQUENTA E SEIS{!}
+else if (letra == 457)
+    SendInput, QUATROCENTOS E CINQUENTA E SETE{!}
+else if (letra == 458)
+    SendInput, QUATROCENTOS E CINQUENTA E OITO{!}
+else if (letra == 459)
+    SendInput, QUATROCENTOS E CINQUENTA E NOVE{!}
+else if (letra == 460)
+    SendInput, QUATROCENTOS E SESSENTA{!}
+else if (letra == 461)
+    SendInput, QUATROCENTOS E SESSENTA E UM{!}
+else if (letra == 462)
+    SendInput, QUATROCENTOS E SESSENTA E DOIS{!}
+else if (letra == 463)
+    SendInput, QUATROCENTOS E SESSENTA E TRÊS{!}
+else if (letra == 464)
+    SendInput, QUATROCENTOS E SESSENTA E QUATRO{!}
+else if (letra == 465)
+    SendInput, QUATROCENTOS E SESSENTA E CINCO{!}
+else if (letra == 466)
+    SendInput, QUATROCENTOS E SESSENTA E SEIS{!}
+else if (letra == 467)
+    SendInput, QUATROCENTOS E SESSENTA E SETE{!}
+else if (letra == 468)
+    SendInput, QUATROCENTOS E SESSENTA E OITO{!}
+else if (letra == 469)
+    SendInput, QUATROCENTOS E SESSENTA E NOVE{!}
+else if (letra == 470)
+    SendInput, QUATROCENTOS E SETENTA{!}
+else if (letra == 471)
+    SendInput, QUATROCENTOS E SETENTA E UM{!}
+else if (letra == 472)
+    SendInput, QUATROCENTOS E SETENTA E DOIS{!}
+else if (letra == 473)
+    SendInput, QUATROCENTOS E SETENTA E TRÊS{!}
+else if (letra == 474)
+    SendInput, QUATROCENTOS E SETENTA E QUATRO{!}
+else if (letra == 475)
+    SendInput, QUATROCENTOS E SETENTA E CINCO{!}
+else if (letra == 476)
+    SendInput, QUATROCENTOS E SETENTA E SEIS{!}
+else if (letra == 477)
+    SendInput, QUATROCENTOS E SETENTA E SETE{!}
+else if (letra == 478)
+    SendInput, QUATROCENTOS E SETENTA E OITO{!}
+else if (letra == 479)
+    SendInput, QUATROCENTOS E SETENTA E NOVE{!}
+else if (letra == 480)
+    SendInput, QUATROCENTOS E OITENTA{!}
+else if (letra == 481)
+    SendInput, QUATROCENTOS E OITENTA E UM{!}
+else if (letra == 482)
+    SendInput, QUATROCENTOS E OITENTA E DOIS{!}
+else if (letra == 483)
+    SendInput, QUATROCENTOS E OITENTA E TRÊS{!}
+else if (letra == 484)
+    SendInput, QUATROCENTOS E OITENTA E QUATRO{!}
+else if (letra == 485)
+    SendInput, QUATROCENTOS E OITENTA E CINCO{!}
+else if (letra == 486)
+    SendInput, QUATROCENTOS E OITENTA E SEIS{!}
+else if (letra == 487)
+    SendInput, QUATROCENTOS E OITENTA E SETE{!}
+else if (letra == 488)
+    SendInput, QUATROCENTOS E OITENTA E OITO{!}
+else if (letra == 489)
+    SendInput, QUATROCENTOS E OITENTA E NOVE{!}
+else if (letra == 490)
+    SendInput, QUATROCENTOS E NOVENTA{!}
+else if (letra == 491)
+    SendInput, QUATROCENTOS E NOVENTA E UM{!}
+else if (letra == 492)
+    SendInput, QUATROCENTOS E NOVENTA E DOIS{!}
+else if (letra == 493)
+    SendInput, QUATROCENTOS E NOVENTA E TRÊS{!}
+else if (letra == 494)
+    SendInput, QUATROCENTOS E NOVENTA E QUATRO{!}
+else if (letra == 495)
+    SendInput, QUATROCENTOS E NOVENTA E CINCO{!}
+else if (letra == 496)
+    SendInput, QUATROCENTOS E NOVENTA E SEIS{!}
+else if (letra == 497)
+    SendInput, QUATROCENTOS E NOVENTA E SETE{!}
+else if (letra == 498)
+    SendInput, QUATROCENTOS E NOVENTA E OITO{!}
+else if (letra == 499)
+    SendInput, QUATROCENTOS E NOVENTA E NOVE{!}
+else if (letra == 500)
+    SendInput, QUINHENTOS{!}
+else if (letra == 501)
+    SendInput, QUINHENTOS E UM{!}
+else if (letra == 502)
+    SendInput, QUINHENTOS E DOIS{!}
+else if (letra == 503)
+    SendInput, QUINHENTOS E TRÊS{!}
+else if (letra == 504)
+    SendInput, QUINHENTOS E QUATRO{!}
+else if (letra == 505)
+    SendInput, QUINHENTOS E CINCO{!}
+else if (letra == 506)
+    SendInput, QUINHENTOS E SEIS{!}
+else if (letra == 507)
+    SendInput, QUINHENTOS E SETE{!}
+else if (letra == 508)
+    SendInput, QUINHENTOS E OITO{!}
+else if (letra == 509)
+    SendInput, QUINHENTOS E NOVE{!}
+else if (letra == 510)
+    SendInput, QUINHENTOS E DEZ{!}
+else if (letra == 511)
+    SendInput, QUINHENTOS E ONZE{!}
+else if (letra == 512)
+    SendInput, QUINHENTOS E DOZE{!}
+else if (letra == 513)
+    SendInput, QUINHENTOS E TREZE{!}
+else if (letra == 514)
+    SendInput, QUINHENTOS E QUATORZE{!}
+else if (letra == 515)
+    SendInput, QUINHENTOS E QUINZE{!}
+else if (letra == 516)
+    SendInput, QUINHENTOS E DEZESSEIS{!}
+else if (letra == 517)
+    SendInput, QUINHENTOS E DEZESSETE{!}
+else if (letra == 518)
+    SendInput, QUINHENTOS E DEZOITO{!}
+else if (letra == 519)
+    SendInput, QUINHENTOS E DEZENOVE{!}
+else if (letra == 520)
+    SendInput, QUINHENTOS E VINTE{!}
+else if (letra == 521)
+    SendInput, QUINHENTOS E VINTE E UM{!}
+else if (letra == 522)
+    SendInput, QUINHENTOS E VINTE E DOIS{!}
+else if (letra == 523)
+    SendInput, QUINHENTOS E VINTE E TRÊS{!}
+else if (letra == 524)
+    SendInput, QUINHENTOS E VINTE E QUATRO{!}
+else if (letra == 525)
+    SendInput, QUINHENTOS E VINTE E CINCO{!}
+else if (letra == 526)
+    SendInput, QUINHENTOS E VINTE E SEIS{!}
+else if (letra == 527)
+    SendInput, QUINHENTOS E VINTE E SETE{!}
+else if (letra == 528)
+    SendInput, QUINHENTOS E VINTE E OITO{!}
+else if (letra == 529)
+    SendInput, QUINHENTOS E VINTE E NOVE{!}
+else if (letra == 530)
+    SendInput, QUINHENTOS E TRINTA{!}
+else if (letra == 531)
+    SendInput, QUINHENTOS E TRINTA E UM{!}
+else if (letra == 532)
+    SendInput, QUINHENTOS E TRINTA E DOIS{!}
+else if (letra == 533)
+    SendInput, QUINHENTOS E TRINTA E TRÊS{!}
+else if (letra == 534)
+    SendInput, QUINHENTOS E TRINTA E QUATRO{!}
+else if (letra == 535)
+    SendInput, QUINHENTOS E TRINTA E CINCO{!}
+else if (letra == 536)
+    SendInput, QUINHENTOS E TRINTA E SEIS{!}
+else if (letra == 537)
+    SendInput, QUINHENTOS E TRINTA E SETE{!}
+else if (letra == 538)
+    SendInput, QUINHENTOS E TRINTA E OITO{!}
+else if (letra == 539)
+    SendInput, QUINHENTOS E TRINTA E NOVE{!}
+else if (letra == 540)
+    SendInput, QUINHENTOS E QUARENTA{!}
+else if (letra == 541)
+    SendInput, QUINHENTOS E QUARENTA E UM{!}
+else if (letra == 542)
+    SendInput, QUINHENTOS E QUARENTA E DOIS{!}
+else if (letra == 543)
+    SendInput, QUINHENTOS E QUARENTA E TRÊS{!}
+else if (letra == 544)
+    SendInput, QUINHENTOS E QUARENTA E QUATRO{!}
+else if (letra == 545)
+    SendInput, QUINHENTOS E QUARENTA E CINCO{!}
+else if (letra == 546)
+    SendInput, QUINHENTOS E QUARENTA E SEIS{!}
+else if (letra == 547)
+    SendInput, QUINHENTOS E QUARENTA E SETE{!}
+else if (letra == 548)
+    SendInput, QUINHENTOS E QUARENTA E OITO{!}
+else if (letra == 549)
+    SendInput, QUINHENTOS E QUARENTA E NOVE{!}
+else if (letra == 550)
+    SendInput, QUINHENTOS E CINQUENTA{!}
+else if (letra == 551)
+    SendInput, QUINHENTOS E CINQUENTA E UM{!}
+else if (letra == 552)
+    SendInput, QUINHENTOS E CINQUENTA E DOIS{!}
+else if (letra == 553)
+    SendInput, QUINHENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 554)
+    SendInput, QUINHENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 555)
+    SendInput, QUINHENTOS E CINQUENTA E CINCO{!}
+else if (letra == 556)
+    SendInput, QUINHENTOS E CINQUENTA E SEIS{!}
+else if (letra == 557)
+    SendInput, QUINHENTOS E CINQUENTA E SETE{!}
+else if (letra == 558)
+    SendInput, QUINHENTOS E CINQUENTA E OITO{!}
+else if (letra == 559)
+    SendInput, QUINHENTOS E CINQUENTA E NOVE{!}
+else if (letra == 560)
+    SendInput, QUINHENTOS E SESSENTA{!}
+else if (letra == 561)
+    SendInput, QUINHENTOS E SESSENTA E UM{!}
+else if (letra == 562)
+    SendInput, QUINHENTOS E SESSENTA E DOIS{!}
+else if (letra == 563)
+    SendInput, QUINHENTOS E SESSENTA E TRÊS{!}
+else if (letra == 564)
+    SendInput, QUINHENTOS E SESSENTA E QUATRO{!}
+else if (letra == 565)
+    SendInput, QUINHENTOS E SESSENTA E CINCO{!}
+else if (letra == 566)
+    SendInput, QUINHENTOS E SESSENTA E SEIS{!}
+else if (letra == 567)
+    SendInput, QUINHENTOS E SESSENTA E SETE{!}
+else if (letra == 568)
+    SendInput, QUINHENTOS E SESSENTA E OITO{!}
+else if (letra == 569)
+    SendInput, QUINHENTOS E SESSENTA E NOVE{!}
+else if (letra == 570)
+    SendInput, QUINHENTOS E SETENTA{!}
+else if (letra == 571)
+    SendInput, QUINHENTOS E SETENTA E UM{!}
+else if (letra == 572)
+    SendInput, QUINHENTOS E SETENTA E DOIS{!}
+else if (letra == 573)
+    SendInput, QUINHENTOS E SETENTA E TRÊS{!}
+else if (letra == 574)
+    SendInput, QUINHENTOS E SETENTA E QUATRO{!}
+else if (letra == 575)
+    SendInput, QUINHENTOS E SETENTA E CINCO{!}
+else if (letra == 576)
+    SendInput, QUINHENTOS E SETENTA E SEIS{!}
+else if (letra == 577)
+    SendInput, QUINHENTOS E SETENTA E SETE{!}
+else if (letra == 578)
+    SendInput, QUINHENTOS E SETENTA E OITO{!}
+else if (letra == 579)
+    SendInput, QUINHENTOS E SETENTA E NOVE{!}
+else if (letra == 580)
+    SendInput, QUINHENTOS E OITENTA{!}
+else if (letra == 581)
+    SendInput, QUINHENTOS E OITENTA E UM{!}
+else if (letra == 582)
+    SendInput, QUINHENTOS E OITENTA E DOIS{!}
+else if (letra == 583)
+    SendInput, QUINHENTOS E OITENTA E TRÊS{!}
+else if (letra == 584)
+    SendInput, QUINHENTOS E OITENTA E QUATRO{!}
+else if (letra == 585)
+    SendInput, QUINHENTOS E OITENTA E CINCO{!}
+else if (letra == 586)
+    SendInput, QUINHENTOS E OITENTA E SEIS{!}
+else if (letra == 587)
+    SendInput, QUINHENTOS E OITENTA E SETE{!}
+else if (letra == 588)
+    SendInput, QUINHENTOS E OITENTA E OITO{!}
+else if (letra == 589)
+    SendInput, QUINHENTOS E OITENTA E NOVE{!}
+else if (letra == 590)
+    SendInput, QUINHENTOS E NOVENTA{!}
+else if (letra == 591)
+    SendInput, QUINHENTOS E NOVENTA E UM{!}
+else if (letra == 592)
+    SendInput, QUINHENTOS E NOVENTA E DOIS{!}
+else if (letra == 593)
+    SendInput, QUINHENTOS E NOVENTA E TRÊS{!}
+else if (letra == 594)
+    SendInput, QUINHENTOS E NOVENTA E QUATRO{!}
+else if (letra == 595)
+    SendInput, QUINHENTOS E NOVENTA E CINCO{!}
+else if (letra == 596)
+    SendInput, QUINHENTOS E NOVENTA E SEIS{!}
+else if (letra == 597)
+    SendInput, QUINHENTOS E NOVENTA E SETE{!}
+else if (letra == 598)
+    SendInput, QUINHENTOS E NOVENTA E OITO{!}
+else if (letra == 599)
+    SendInput, QUINHENTOS E NOVENTA E NOVE{!}
+else if (letra == 600)
+    SendInput, SEISCENTOS{!}
+else if (letra == 601)
+    SendInput, SEISCENTOS E UM{!}
+else if (letra == 602)
+    SendInput, SEISCENTOS E DOIS{!}
+else if (letra == 603)
+    SendInput, SEISCENTOS E TRÊS{!}
+else if (letra == 604)
+    SendInput, SEISCENTOS E QUATRO{!}
+else if (letra == 605)
+    SendInput, SEISCENTOS E CINCO{!}
+else if (letra == 606)
+    SendInput, SEISCENTOS E SEIS{!}
+else if (letra == 607)
+    SendInput, SEISCENTOS E SETE{!}
+else if (letra == 608)
+    SendInput, SEISCENTOS E OITO{!}
+else if (letra == 609)
+    SendInput, SEISCENTOS E NOVE{!}
+else if (letra == 610)
+    SendInput, SEISCENTOS E DEZ{!}
+else if (letra == 611)
+    SendInput, SEISCENTOS E ONZE{!}
+else if (letra == 612)
+    SendInput, SEISCENTOS E DOZE{!}
+else if (letra == 613)
+    SendInput, SEISCENTOS E TREZE{!}
+else if (letra == 614)
+    SendInput, SEISCENTOS E QUATORZE{!}
+else if (letra == 615)
+    SendInput, SEISCENTOS E QUINZE{!}
+else if (letra == 616)
+    SendInput, SEISCENTOS E DEZESSEIS{!}
+else if (letra == 617)
+    SendInput, SEISCENTOS E DEZESSETE{!}
+else if (letra == 618)
+    SendInput, SEISCENTOS E DEZOITO{!}
+else if (letra == 619)
+    SendInput, SEISCENTOS E DEZENOVE{!}
+else if (letra == 620)
+    SendInput, SEISCENTOS E VINTE{!}
+else if (letra == 621)
+    SendInput, SEISCENTOS E VINTE E UM{!}
+else if (letra == 622)
+    SendInput, SEISCENTOS E VINTE E DOIS{!}
+else if (letra == 623)
+    SendInput, SEISCENTOS E VINTE E TRÊS{!}
+else if (letra == 624)
+    SendInput, SEISCENTOS E VINTE E QUATRO{!}
+else if (letra == 625)
+    SendInput, SEISCENTOS E VINTE E CINCO{!}
+else if (letra == 626)
+    SendInput, SEISCENTOS E VINTE E SEIS{!}
+else if (letra == 627)
+    SendInput, SEISCENTOS E VINTE E SETE{!}
+else if (letra == 628)
+    SendInput, SEISCENTOS E VINTE E OITO{!}
+else if (letra == 629)
+    SendInput, SEISCENTOS E VINTE E NOVE{!}
+else if (letra == 630)
+    SendInput, SEISCENTOS E TRINTA{!}
+else if (letra == 631)
+    SendInput, SEISCENTOS E TRINTA E UM{!}
+else if (letra == 632)
+    SendInput, SEISCENTOS E TRINTA E DOIS{!}
+else if (letra == 633)
+    SendInput, SEISCENTOS E TRINTA E TRÊS{!}
+else if (letra == 634)
+    SendInput, SEISCENTOS E TRINTA E QUATRO{!}
+else if (letra == 635)
+    SendInput, SEISCENTOS E TRINTA E CINCO{!}
+else if (letra == 636)
+    SendInput, SEISCENTOS E TRINTA E SEIS{!}
+else if (letra == 637)
+    SendInput, SEISCENTOS E TRINTA E SETE{!}
+else if (letra == 638)
+    SendInput, SEISCENTOS E TRINTA E OITO{!}
+else if (letra == 639)
+    SendInput, SEISCENTOS E TRINTA E NOVE{!}
+else if (letra == 640)
+    SendInput, SEISCENTOS E QUARENTA{!}
+else if (letra == 641)
+    SendInput, SEISCENTOS E QUARENTA E UM{!}
+else if (letra == 642)
+    SendInput, SEISCENTOS E QUARENTA E DOIS{!}
+else if (letra == 643)
+    SendInput, SEISCENTOS E QUARENTA E TRÊS{!}
+else if (letra == 644)
+    SendInput, SEISCENTOS E QUARENTA E QUATRO{!}
+else if (letra == 645)
+    SendInput, SEISCENTOS E QUARENTA E CINCO{!}
+else if (letra == 646)
+    SendInput, SEISCENTOS E QUARENTA E SEIS{!}
+else if (letra == 647)
+    SendInput, SEISCENTOS E QUARENTA E SETE{!}
+else if (letra == 648)
+    SendInput, SEISCENTOS E QUARENTA E OITO{!}
+else if (letra == 649)
+    SendInput, SEISCENTOS E QUARENTA E NOVE{!}
+else if (letra == 650)
+    SendInput, SEISCENTOS E CINQUENTA{!}
+else if (letra == 651)
+    SendInput, SEISCENTOS E CINQUENTA E UM{!}
+else if (letra == 652)
+    SendInput, SEISCENTOS E CINQUENTA E DOIS{!}
+else if (letra == 653)
+    SendInput, SEISCENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 654)
+    SendInput, SEISCENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 655)
+    SendInput, SEISCENTOS E CINQUENTA E CINCO{!}
+else if (letra == 656)
+    SendInput, SEISCENTOS E CINQUENTA E SEIS{!}
+else if (letra == 657)
+    SendInput, SEISCENTOS E CINQUENTA E SETE{!}
+else if (letra == 658)
+    SendInput, SEISCENTOS E CINQUENTA E OITO{!}
+else if (letra == 659)
+    SendInput, SEISCENTOS E CINQUENTA E NOVE{!}
+else if (letra == 660)
+    SendInput, SEISCENTOS E SESSENTA{!}
+else if (letra == 661)
+    SendInput, SEISCENTOS E SESSENTA E UM{!}
+else if (letra == 662)
+    SendInput, SEISCENTOS E SESSENTA E DOIS{!}
+else if (letra == 663)
+    SendInput, SEISCENTOS E SESSENTA E TRÊS{!}
+else if (letra == 664)
+    SendInput, SEISCENTOS E SESSENTA E QUATRO{!}
+else if (letra == 665)
+    SendInput, SEISCENTOS E SESSENTA E CINCO{!}
+else if (letra == 666)
+    SendInput, SEISCENTOS E SESSENTA E SEIS{!}
+else if (letra == 667)
+    SendInput, SEISCENTOS E SESSENTA E SETE{!}
+else if (letra == 668)
+    SendInput, SEISCENTOS E SESSENTA E OITO{!}
+else if (letra == 669)
+    SendInput, SEISCENTOS E SESSENTA E NOVE{!}
+else if (letra == 670)
+    SendInput, SEISCENTOS E SETENTA{!}
+else if (letra == 671)
+    SendInput, SEISCENTOS E SETENTA E UM{!}
+else if (letra == 672)
+    SendInput, SEISCENTOS E SETENTA E DOIS{!}
+else if (letra == 673)
+    SendInput, SEISCENTOS E SETENTA E TRÊS{!}
+else if (letra == 674)
+    SendInput, SEISCENTOS E SETENTA E QUATRO{!}
+else if (letra == 675)
+    SendInput, SEISCENTOS E SETENTA E CINCO{!}
+else if (letra == 676)
+    SendInput, SEISCENTOS E SETENTA E SEIS{!}
+else if (letra == 677)
+    SendInput, SEISCENTOS E SETENTA E SETE{!}
+else if (letra == 678)
+    SendInput, SEISCENTOS E SETENTA E OITO{!}
+else if (letra == 679)
+    SendInput, SEISCENTOS E SETENTA E NOVE{!}
+else if (letra == 680)
+    SendInput, SEISCENTOS E OITENTA{!}
+else if (letra == 681)
+    SendInput, SEISCENTOS E OITENTA E UM{!}
+else if (letra == 682)
+    SendInput, SEISCENTOS E OITENTA E DOIS{!}
+else if (letra == 683)
+    SendInput, SEISCENTOS E OITENTA E TRÊS{!}
+else if (letra == 684)
+    SendInput, SEISCENTOS E OITENTA E QUATRO{!}
+else if (letra == 685)
+    SendInput, SEISCENTOS E OITENTA E CINCO{!}
+else if (letra == 686)
+    SendInput, SEISCENTOS E OITENTA E SEIS{!}
+else if (letra == 687)
+    SendInput, SEISCENTOS E OITENTA E SETE{!}
+else if (letra == 688)
+    SendInput, SEISCENTOS E OITENTA E OITO{!}
+else if (letra == 689)
+    SendInput, SEISCENTOS E OITENTA E NOVE{!}
+else if (letra == 690)
+    SendInput, SEISCENTOS E NOVENTA{!}
+else if (letra == 691)
+    SendInput, SEISCENTOS E NOVENTA E UM{!}
+else if (letra == 692)
+    SendInput, SEISCENTOS E NOVENTA E DOIS{!}
+else if (letra == 693)
+    SendInput, SEISCENTOS E NOVENTA E TRÊS{!}
+else if (letra == 694)
+    SendInput, SEISCENTOS E NOVENTA E QUATRO{!}
+else if (letra == 695)
+    SendInput, SEISCENTOS E NOVENTA E CINCO{!}
+else if (letra == 696)
+    SendInput, SEISCENTOS E NOVENTA E SEIS{!}
+else if (letra == 697)
+    SendInput, SEISCENTOS E NOVENTA E SETE{!}
+else if (letra == 698)
+    SendInput, SEISCENTOS E NOVENTA E OITO{!}
+else if (letra == 699)
+    SendInput, SEISCENTOS E NOVENTA E NOVE{!}
+else if (letra == 700)
+    SendInput, SETECENTOS{!}
+else if (letra == 701)
+    SendInput, SETECENTOS E UM{!}
+else if (letra == 702)
+    SendInput, SETECENTOS E DOIS{!}
+else if (letra == 703)
+    SendInput, SETECENTOS E TRÊS{!}
+else if (letra == 704)
+    SendInput, SETECENTOS E QUATRO{!}
+else if (letra == 705)
+    SendInput, SETECENTOS E CINCO{!}
+else if (letra == 706)
+    SendInput, SETECENTOS E SEIS{!}
+else if (letra == 707)
+    SendInput, SETECENTOS E SETE{!}
+else if (letra == 708)
+    SendInput, SETECENTOS E OITO{!}
+else if (letra == 709)
+    SendInput, SETECENTOS E NOVE{!}
+else if (letra == 710)
+    SendInput, SETECENTOS E DEZ{!}
+else if (letra == 711)
+    SendInput, SETECENTOS E ONZE{!}
+else if (letra == 712)
+    SendInput, SETECENTOS E DOZE{!}
+else if (letra == 713)
+    SendInput, SETECENTOS E TREZE{!}
+else if (letra == 714)
+    SendInput, SETECENTOS E QUATORZE{!}
+else if (letra == 715)
+    SendInput, SETECENTOS E QUINZE{!}
+else if (letra == 716)
+    SendInput, SETECENTOS E DEZESSEIS{!}
+else if (letra == 717)
+    SendInput, SETECENTOS E DEZESSETE{!}
+else if (letra == 718)
+    SendInput, SETECENTOS E DEZOITO{!}
+else if (letra == 719)
+    SendInput, SETECENTOS E DEZENOVE{!}
+else if (letra == 720)
+    SendInput, SETECENTOS E VINTE{!}
+else if (letra == 721)
+    SendInput, SETECENTOS E VINTE E UM{!}
+else if (letra == 722)
+    SendInput, SETECENTOS E VINTE E DOIS{!}
+else if (letra == 723)
+    SendInput, SETECENTOS E VINTE E TRÊS{!}
+else if (letra == 724)
+    SendInput, SETECENTOS E VINTE E QUATRO{!}
+else if (letra == 725)
+    SendInput, SETECENTOS E VINTE E CINCO{!}
+else if (letra == 726)
+    SendInput, SETECENTOS E VINTE E SEIS{!}
+else if (letra == 727)
+    SendInput, SETECENTOS E VINTE E SETE{!}
+else if (letra == 728)
+    SendInput, SETECENTOS E VINTE E OITO{!}
+else if (letra == 729)
+    SendInput, SETECENTOS E VINTE E NOVE{!}
+else if (letra == 730)
+    SendInput, SETECENTOS E TRINTA{!}
+else if (letra == 731)
+    SendInput, SETECENTOS E TRINTA E UM{!}
+else if (letra == 732)
+    SendInput, SETECENTOS E TRINTA E DOIS{!}
+else if (letra == 733)
+    SendInput, SETECENTOS E TRINTA E TRÊS{!}
+else if (letra == 734)
+    SendInput, SETECENTOS E TRINTA E QUATRO{!}
+else if (letra == 735)
+    SendInput, SETECENTOS E TRINTA E CINCO{!}
+else if (letra == 736)
+    SendInput, SETECENTOS E TRINTA E SEIS{!}
+else if (letra == 737)
+    SendInput, SETECENTOS E TRINTA E SETE{!}
+else if (letra == 738)
+    SendInput, SETECENTOS E TRINTA E OITO{!}
+else if (letra == 739)
+    SendInput, SETECENTOS E TRINTA E NOVE{!}
+else if (letra == 740)
+    SendInput, SETECENTOS E QUARENTA{!}
+else if (letra == 741)
+    SendInput, SETECENTOS E QUARENTA E UM{!}
+else if (letra == 742)
+    SendInput, SETECENTOS E QUARENTA E DOIS{!}
+else if (letra == 743)
+    SendInput, SETECENTOS E QUARENTA E TRÊS{!}
+else if (letra == 744)
+    SendInput, SETECENTOS E QUARENTA E QUATRO{!}
+else if (letra == 745)
+    SendInput, SETECENTOS E QUARENTA E CINCO{!}
+else if (letra == 746)
+    SendInput, SETECENTOS E QUARENTA E SEIS{!}
+else if (letra == 747)
+    SendInput, SETECENTOS E QUARENTA E SETE{!}
+else if (letra == 748)
+    SendInput, SETECENTOS E QUARENTA E OITO{!}
+else if (letra == 749)
+    SendInput, SETECENTOS E QUARENTA E NOVE{!}
+else if (letra == 750)
+    SendInput, SETECENTOS E CINQUENTA{!}
+else if (letra == 751)
+    SendInput, SETECENTOS E CINQUENTA E UM{!}
+else if (letra == 752)
+    SendInput, SETECENTOS E CINQUENTA E DOIS{!}
+else if (letra == 753)
+    SendInput, SETECENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 754)
+    SendInput, SETECENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 755)
+    SendInput, SETECENTOS E CINQUENTA E CINCO{!}
+else if (letra == 756)
+    SendInput, SETECENTOS E CINQUENTA E SEIS{!}
+else if (letra == 757)
+    SendInput, SETECENTOS E CINQUENTA E SETE{!}
+else if (letra == 758)
+    SendInput, SETECENTOS E CINQUENTA E OITO{!}
+else if (letra == 759)
+    SendInput, SETECENTOS E CINQUENTA E NOVE{!}
+else if (letra == 760)
+    SendInput, SETECENTOS E SESSENTA{!}
+else if (letra == 761)
+    SendInput, SETECENTOS E SESSENTA E UM{!}
+else if (letra == 762)
+    SendInput, SETECENTOS E SESSENTA E DOIS{!}
+else if (letra == 763)
+    SendInput, SETECENTOS E SESSENTA E TRÊS{!}
+else if (letra == 764)
+    SendInput, SETECENTOS E SESSENTA E QUATRO{!}
+else if (letra == 765)
+    SendInput, SETECENTOS E SESSENTA E CINCO{!}
+else if (letra == 766)
+    SendInput, SETECENTOS E SESSENTA E SEIS{!}
+else if (letra == 767)
+    SendInput, SETECENTOS E SESSENTA E SETE{!}
+else if (letra == 768)
+    SendInput, SETECENTOS E SESSENTA E OITO{!}
+else if (letra == 769)
+    SendInput, SETECENTOS E SESSENTA E NOVE{!}
+else if (letra == 770)
+    SendInput, SETECENTOS E SETENTA{!}
+else if (letra == 771)
+    SendInput, SETECENTOS E SETENTA E UM{!}
+else if (letra == 772)
+    SendInput, SETECENTOS E SETENTA E DOIS{!}
+else if (letra == 773)
+    SendInput, SETECENTOS E SETENTA E TRÊS{!}
+else if (letra == 774)
+    SendInput, SETECENTOS E SETENTA E QUATRO{!}
+else if (letra == 775)
+    SendInput, SETECENTOS E SETENTA E CINCO{!}
+else if (letra == 776)
+    SendInput, SETECENTOS E SETENTA E SEIS{!}
+else if (letra == 777)
+    SendInput, SETECENTOS E SETENTA E SETE{!}
+else if (letra == 778)
+    SendInput, SETECENTOS E SETENTA E OITO{!}
+else if (letra == 779)
+    SendInput, SETECENTOS E SETENTA E NOVE{!}
+else if (letra == 780)
+    SendInput, SETECENTOS E OITENTA{!}
+else if (letra == 781)
+    SendInput, SETECENTOS E OITENTA E UM{!}
+else if (letra == 782)
+    SendInput, SETECENTOS E OITENTA E DOIS{!}
+else if (letra == 783)
+    SendInput, SETECENTOS E OITENTA E TRÊS{!}
+else if (letra == 784)
+    SendInput, SETECENTOS E OITENTA E QUATRO{!}
+else if (letra == 785)
+    SendInput, SETECENTOS E OITENTA E CINCO{!}
+else if (letra == 786)
+    SendInput, SETECENTOS E OITENTA E SEIS{!}
+else if (letra == 787)
+    SendInput, SETECENTOS E OITENTA E SETE{!}
+else if (letra == 788)
+    SendInput, SETECENTOS E OITENTA E OITO{!}
+else if (letra == 789)
+    SendInput, SETECENTOS E OITENTA E NOVE{!}
+else if (letra == 790)
+    SendInput, SETECENTOS E NOVENTA{!}
+else if (letra == 791)
+    SendInput, SETECENTOS E NOVENTA E UM{!}
+else if (letra == 792)
+    SendInput, SETECENTOS E NOVENTA E DOIS{!}
+else if (letra == 793)
+    SendInput, SETECENTOS E NOVENTA E TRÊS{!}
+else if (letra == 794)
+    SendInput, SETECENTOS E NOVENTA E QUATRO{!}
+else if (letra == 795)
+    SendInput, SETECENTOS E NOVENTA E CINCO{!}
+else if (letra == 796)
+    SendInput, SETECENTOS E NOVENTA E SEIS{!}
+else if (letra == 797)
+    SendInput, SETECENTOS E NOVENTA E SETE{!}
+else if (letra == 798)
+    SendInput, SETECENTOS E NOVENTA E OITO{!}
+else if (letra == 799)
+    SendInput, SETECENTOS E NOVENTA E NOVE{!}
+else if (letra == 800)
+    SendInput, OITOCENTOS{!}
+else if (letra == 801)
+    SendInput, OITOCENTOS E UM{!}
+else if (letra == 802)
+    SendInput, OITOCENTOS E DOIS{!}
+else if (letra == 803)
+    SendInput, OITOCENTOS E TRÊS{!}
+else if (letra == 804)
+    SendInput, OITOCENTOS E QUATRO{!}
+else if (letra == 805)
+    SendInput, OITOCENTOS E CINCO{!}
+else if (letra == 806)
+    SendInput, OITOCENTOS E SEIS{!}
+else if (letra == 807)
+    SendInput, OITOCENTOS E SETE{!}
+else if (letra == 808)
+    SendInput, OITOCENTOS E OITO{!}
+else if (letra == 809)
+    SendInput, OITOCENTOS E NOVE{!}
+else if (letra == 810)
+    SendInput, OITOCENTOS E DEZ{!}
+else if (letra == 811)
+    SendInput, OITOCENTOS E ONZE{!}
+else if (letra == 812)
+    SendInput, OITOCENTOS E DOZE{!}
+else if (letra == 813)
+    SendInput, OITOCENTOS E TREZE{!}
+else if (letra == 814)
+    SendInput, OITOCENTOS E QUATORZE{!}
+else if (letra == 815)
+    SendInput, OITOCENTOS E QUINZE{!}
+else if (letra == 816)
+    SendInput, OITOCENTOS E DEZESSEIS{!}
+else if (letra == 817)
+    SendInput, OITOCENTOS E DEZESSETE{!}
+else if (letra == 818)
+    SendInput, OITOCENTOS E DEZOITO{!}
+else if (letra == 819)
+    SendInput, OITOCENTOS E DEZENOVE{!}
+else if (letra == 820)
+    SendInput, OITOCENTOS E VINTE{!}
+else if (letra == 821)
+    SendInput, OITOCENTOS E VINTE E UM{!}
+else if (letra == 822)
+    SendInput, OITOCENTOS E VINTE E DOIS{!}
+else if (letra == 823)
+    SendInput, OITOCENTOS E VINTE E TRÊS{!}
+else if (letra == 824)
+    SendInput, OITOCENTOS E VINTE E QUATRO{!}
+else if (letra == 825)
+    SendInput, OITOCENTOS E VINTE E CINCO{!}
+else if (letra == 826)
+    SendInput, OITOCENTOS E VINTE E SEIS{!}
+else if (letra == 827)
+    SendInput, OITOCENTOS E VINTE E SETE{!}
+else if (letra == 828)
+    SendInput, OITOCENTOS E VINTE E OITO{!}
+else if (letra == 829)
+    SendInput, OITOCENTOS E VINTE E NOVE{!}
+else if (letra == 830)
+    SendInput, OITOCENTOS E TRINTA{!}
+else if (letra == 831)
+    SendInput, OITOCENTOS E TRINTA E UM{!}
+else if (letra == 832)
+    SendInput, OITOCENTOS E TRINTA E DOIS{!}
+else if (letra == 833)
+    SendInput, OITOCENTOS E TRINTA E TRÊS{!}
+else if (letra == 834)
+    SendInput, OITOCENTOS E TRINTA E QUATRO{!}
+else if (letra == 835)
+    SendInput, OITOCENTOS E TRINTA E CINCO{!}
+else if (letra == 836)
+    SendInput, OITOCENTOS E TRINTA E SEIS{!}
+else if (letra == 837)
+    SendInput, OITOCENTOS E TRINTA E SETE{!}
+else if (letra == 838)
+    SendInput, OITOCENTOS E TRINTA E OITO{!}
+else if (letra == 839)
+    SendInput, OITOCENTOS E TRINTA E NOVE{!}
+else if (letra == 840)
+    SendInput, OITOCENTOS E QUARENTA{!}
+else if (letra == 841)
+    SendInput, OITOCENTOS E QUARENTA E UM{!}
+else if (letra == 842)
+    SendInput, OITOCENTOS E QUARENTA E DOIS{!}
+else if (letra == 843)
+    SendInput, OITOCENTOS E QUARENTA E TRÊS{!}
+else if (letra == 844)
+    SendInput, OITOCENTOS E QUARENTA E QUATRO{!}
+else if (letra == 845)
+    SendInput, OITOCENTOS E QUARENTA E CINCO{!}
+else if (letra == 846)
+    SendInput, OITOCENTOS E QUARENTA E SEIS{!}
+else if (letra == 847)
+    SendInput, OITOCENTOS E QUARENTA E SETE{!}
+else if (letra == 848)
+    SendInput, OITOCENTOS E QUARENTA E OITO{!}
+else if (letra == 849)
+    SendInput, OITOCENTOS E QUARENTA E NOVE{!}
+else if (letra == 850)
+    SendInput, OITOCENTOS E CINQUENTA{!}
+else if (letra == 851)
+    SendInput, OITOCENTOS E CINQUENTA E UM{!}
+else if (letra == 852)
+    SendInput, OITOCENTOS E CINQUENTA E DOIS{!}
+else if (letra == 853)
+    SendInput, OITOCENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 854)
+    SendInput, OITOCENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 855)
+    SendInput, OITOCENTOS E CINQUENTA E CINCO{!}
+else if (letra == 856)
+    SendInput, OITOCENTOS E CINQUENTA E SEIS{!}
+else if (letra == 857)
+    SendInput, OITOCENTOS E CINQUENTA E SETE{!}
+else if (letra == 858)
+    SendInput, OITOCENTOS E CINQUENTA E OITO{!}
+else if (letra == 859)
+    SendInput, OITOCENTOS E CINQUENTA E NOVE{!}
+else if (letra == 860)
+    SendInput, OITOCENTOS E SESSENTA{!}
+else if (letra == 861)
+    SendInput, OITOCENTOS E SESSENTA E UM{!}
+else if (letra == 862)
+    SendInput, OITOCENTOS E SESSENTA E DOIS{!}
+else if (letra == 863)
+    SendInput, OITOCENTOS E SESSENTA E TRÊS{!}
+else if (letra == 864)
+    SendInput, OITOCENTOS E SESSENTA E QUATRO{!}
+else if (letra == 865)
+    SendInput, OITOCENTOS E SESSENTA E CINCO{!}
+else if (letra == 866)
+    SendInput, OITOCENTOS E SESSENTA E SEIS{!}
+else if (letra == 867)
+    SendInput, OITOCENTOS E SESSENTA E SETE{!}
+else if (letra == 868)
+    SendInput, OITOCENTOS E SESSENTA E OITO{!}
+else if (letra == 869)
+    SendInput, OITOCENTOS E SESSENTA E NOVE{!}
+else if (letra == 870)
+    SendInput, OITOCENTOS E SETENTA{!}
+else if (letra == 871)
+    SendInput, OITOCENTOS E SETENTA E UM{!}
+else if (letra == 872)
+    SendInput, OITOCENTOS E SETENTA E DOIS{!}
+else if (letra == 873)
+    SendInput, OITOCENTOS E SETENTA E TRÊS{!}
+else if (letra == 874)
+    SendInput, OITOCENTOS E SETENTA E QUATRO{!}
+else if (letra == 875)
+    SendInput, OITOCENTOS E SETENTA E CINCO{!}
+else if (letra == 876)
+    SendInput, OITOCENTOS E SETENTA E SEIS{!}
+else if (letra == 877)
+    SendInput, OITOCENTOS E SETENTA E SETE{!}
+else if (letra == 878)
+    SendInput, OITOCENTOS E SETENTA E OITO{!}
+else if (letra == 879)
+    SendInput, OITOCENTOS E SETENTA E NOVE{!}
+else if (letra == 880)
+    SendInput, OITOCENTOS E OITENTA{!}
+else if (letra == 881)
+    SendInput, OITOCENTOS E OITENTA E UM{!}
+else if (letra == 882)
+    SendInput, OITOCENTOS E OITENTA E DOIS{!}
+else if (letra == 883)
+    SendInput, OITOCENTOS E OITENTA E TRÊS{!}
+else if (letra == 884)
+    SendInput, OITOCENTOS E OITENTA E QUATRO{!}
+else if (letra == 885)
+    SendInput, OITOCENTOS E OITENTA E CINCO{!}
+else if (letra == 886)
+    SendInput, OITOCENTOS E OITENTA E SEIS{!}
+else if (letra == 887)
+    SendInput, OITOCENTOS E OITENTA E SETE{!}
+else if (letra == 888)
+    SendInput, OITOCENTOS E OITENTA E OITO{!}
+else if (letra == 889)
+    SendInput, OITOCENTOS E OITENTA E NOVE{!}
+else if (letra == 890)
+    SendInput, OITOCENTOS E NOVENTA{!}
+else if (letra == 891)
+    SendInput, OITOCENTOS E NOVENTA E UM{!}
+else if (letra == 892)
+    SendInput, OITOCENTOS E NOVENTA E DOIS{!}
+else if (letra == 893)
+    SendInput, OITOCENTOS E NOVENTA E TRÊS{!}
+else if (letra == 894)
+    SendInput, OITOCENTOS E NOVENTA E QUATRO{!}
+else if (letra == 895)
+    SendInput, OITOCENTOS E NOVENTA E CINCO{!}
+else if (letra == 896)
+    SendInput, OITOCENTOS E NOVENTA E SEIS{!}
+else if (letra == 897)
+    SendInput, OITOCENTOS E NOVENTA E SETE{!}
+else if (letra == 898)
+    SendInput, OITOCENTOS E NOVENTA E OITO{!}
+else if (letra == 899)
+    SendInput, OITOCENTOS E NOVENTA E NOVE{!}
+else if (letra == 900)
+    SendInput, NOVECENTOS{!}
+else if (letra == 901)
+    SendInput, NOVECENTOS E UM{!}
+else if (letra == 902)
+    SendInput, NOVECENTOS E DOIS{!}
+else if (letra == 903)
+    SendInput, NOVECENTOS E TRÊS{!}
+else if (letra == 904)
+    SendInput, NOVECENTOS E QUATRO{!}
+else if (letra == 905)
+    SendInput, NOVECENTOS E CINCO{!}
+else if (letra == 906)
+    SendInput, NOVECENTOS E SEIS{!}
+else if (letra == 907)
+    SendInput, NOVECENTOS E SETE{!}
+else if (letra == 908)
+    SendInput, NOVECENTOS E OITO{!}
+else if (letra == 909)
+    SendInput, NOVECENTOS E NOVE{!}
+else if (letra == 910)
+    SendInput, NOVECENTOS E DEZ{!}
+else if (letra == 911)
+    SendInput, NOVECENTOS E ONZE{!}
+else if (letra == 912)
+    SendInput, NOVECENTOS E DOZE{!}
+else if (letra == 913)
+    SendInput, NOVECENTOS E TREZE{!}
+else if (letra == 914)
+    SendInput, NOVECENTOS E QUATORZE{!}
+else if (letra == 915)
+    SendInput, NOVECENTOS E QUINZE{!}
+else if (letra == 916)
+    SendInput, NOVECENTOS E DEZESSEIS{!}
+else if (letra == 917)
+    SendInput, NOVECENTOS E DEZESSETE{!}
+else if (letra == 918)
+    SendInput, NOVECENTOS E DEZOITO{!}
+else if (letra == 919)
+    SendInput, NOVECENTOS E DEZENOVE{!}
+else if (letra == 920)
+    SendInput, NOVECENTOS E VINTE{!}
+else if (letra == 921)
+    SendInput, NOVECENTOS E VINTE E UM{!}
+else if (letra == 922)
+    SendInput, NOVECENTOS E VINTE E DOIS{!}
+else if (letra == 923)
+    SendInput, NOVECENTOS E VINTE E TRÊS{!}
+else if (letra == 924)
+    SendInput, NOVECENTOS E VINTE E QUATRO{!}
+else if (letra == 925)
+    SendInput, NOVECENTOS E VINTE E CINCO{!}
+else if (letra == 926)
+    SendInput, NOVECENTOS E VINTE E SEIS{!}
+else if (letra == 927)
+    SendInput, NOVECENTOS E VINTE E SETE{!}
+else if (letra == 928)
+    SendInput, NOVECENTOS E VINTE E OITO{!}
+else if (letra == 929)
+    SendInput, NOVECENTOS E VINTE E NOVE{!}
+else if (letra == 930)
+    SendInput, NOVECENTOS E TRINTA{!}
+else if (letra == 931)
+    SendInput, NOVECENTOS E TRINTA E UM{!}
+else if (letra == 932)
+    SendInput, NOVECENTOS E TRINTA E DOIS{!}
+else if (letra == 933)
+    SendInput, NOVECENTOS E TRINTA E TRÊS{!}
+else if (letra == 934)
+    SendInput, NOVECENTOS E TRINTA E QUATRO{!}
+else if (letra == 935)
+    SendInput, NOVECENTOS E TRINTA E CINCO{!}
+else if (letra == 936)
+    SendInput, NOVECENTOS E TRINTA E SEIS{!}
+else if (letra == 937)
+    SendInput, NOVECENTOS E TRINTA E SETE{!}
+else if (letra == 938)
+    SendInput, NOVECENTOS E TRINTA E OITO{!}
+else if (letra == 939)
+    SendInput, NOVECENTOS E TRINTA E NOVE{!}
+else if (letra == 940)
+    SendInput, NOVECENTOS E QUARENTA{!}
+else if (letra == 941)
+    SendInput, NOVECENTOS E QUARENTA E UM{!}
+else if (letra == 942)
+    SendInput, NOVECENTOS E QUARENTA E DOIS{!}
+else if (letra == 943)
+    SendInput, NOVECENTOS E QUARENTA E TRÊS{!}
+else if (letra == 944)
+    SendInput, NOVECENTOS E QUARENTA E QUATRO{!}
+else if (letra == 945)
+    SendInput, NOVECENTOS E QUARENTA E CINCO{!}
+else if (letra == 946)
+    SendInput, NOVECENTOS E QUARENTA E SEIS{!}
+else if (letra == 947)
+    SendInput, NOVECENTOS E QUARENTA E SETE{!}
+else if (letra == 948)
+    SendInput, NOVECENTOS E QUARENTA E OITO{!}
+else if (letra == 949)
+    SendInput, NOVECENTOS E QUARENTA E NOVE{!}
+else if (letra == 950)
+    SendInput, NOVECENTOS E CINQUENTA{!}
+else if (letra == 951)
+    SendInput, NOVECENTOS E CINQUENTA E UM{!}
+else if (letra == 952)
+    SendInput, NOVECENTOS E CINQUENTA E DOIS{!}
+else if (letra == 953)
+    SendInput, NOVECENTOS E CINQUENTA E TRÊS{!}
+else if (letra == 954)
+    SendInput, NOVECENTOS E CINQUENTA E QUATRO{!}
+else if (letra == 955)
+    SendInput, NOVECENTOS E CINQUENTA E CINCO{!}
+else if (letra == 956)
+    SendInput, NOVECENTOS E CINQUENTA E SEIS{!}
+else if (letra == 957)
+    SendInput, NOVECENTOS E CINQUENTA E SETE{!}
+else if (letra == 958)
+    SendInput, NOVECENTOS E CINQUENTA E OITO{!}
+else if (letra == 959)
+    SendInput, NOVECENTOS E CINQUENTA E NOVE{!}
+else if (letra == 960)
+    SendInput, NOVECENTOS E SESSENTA{!}
+else if (letra == 961)
+    SendInput, NOVECENTOS E SESSENTA E UM{!}
+else if (letra == 962)
+    SendInput, NOVECENTOS E SESSENTA E DOIS{!}
+else if (letra == 963)
+    SendInput, NOVECENTOS E SESSENTA E TRÊS{!}
+else if (letra == 964)
+    SendInput, NOVECENTOS E SESSENTA E QUATRO{!}
+else if (letra == 965)
+    SendInput, NOVECENTOS E SESSENTA E CINCO{!}
+else if (letra == 966)
+    SendInput, NOVECENTOS E SESSENTA E SEIS{!}
+else if (letra == 967)
+    SendInput, NOVECENTOS E SESSENTA E SETE{!}
+else if (letra == 968)
+    SendInput, NOVECENTOS E SESSENTA E OITO{!}
+else if (letra == 969)
+    SendInput, NOVECENTOS E SESSENTA E NOVE{!}
+else if (letra == 970)
+    SendInput, NOVECENTOS E SETENTA{!}
+else if (letra == 971)
+    SendInput, NOVECENTOS E SETENTA E UM{!}
+else if (letra == 972)
+    SendInput, NOVECENTOS E SETENTA E DOIS{!}
+else if (letra == 973)
+    SendInput, NOVECENTOS E SETENTA E TRÊS{!}
+else if (letra == 974)
+    SendInput, NOVECENTOS E SETENTA E QUATRO{!}
+else if (letra == 975)
+    SendInput, NOVECENTOS E SETENTA E CINCO{!}
+else if (letra == 976)
+    SendInput, NOVECENTOS E SETENTA E SEIS{!}
+else if (letra == 977)
+    SendInput, NOVECENTOS E SETENTA E SETE{!}
+else if (letra == 978)
+    SendInput, NOVECENTOS E SETENTA E OITO{!}
+else if (letra == 979)
+    SendInput, NOVECENTOS E SETENTA E NOVE{!}
+else if (letra == 980)
+    SendInput, NOVECENTOS E OITENTA{!}
+else if (letra == 981)
+    SendInput, NOVECENTOS E OITENTA E UM{!}
+else if (letra == 982)
+    SendInput, NOVECENTOS E OITENTA E DOIS{!}
+else if (letra == 983)
+    SendInput, NOVECENTOS E OITENTA E TRÊS{!}
+else if (letra == 984)
+    SendInput, NOVECENTOS E OITENTA E QUATRO{!}
+else if (letra == 985)
+    SendInput, NOVECENTOS E OITENTA E CINCO{!}
+else if (letra == 986)
+    SendInput, NOVECENTOS E OITENTA E SEIS{!}
+else if (letra == 987)
+    SendInput, NOVECENTOS E OITENTA E SETE{!}
+else if (letra == 988)
+    SendInput, NOVECENTOS E OITENTA E OITO{!}
+else if (letra == 989)
+    SendInput, NOVECENTOS E OITENTA E NOVE{!}
+else if (letra == 990)
+    SendInput, NOVECENTOS E NOVENTA{!}
+else if (letra == 991)
+    SendInput, NOVECENTOS E NOVENTA E UM{!}
+else if (letra == 992)
+    SendInput, NOVECENTOS E NOVENTA E DOIS{!}
+else if (letra == 993)
+    SendInput, NOVECENTOS E NOVENTA E TRÊS{!}
+else if (letra == 994)
+    SendInput, NOVECENTOS E NOVENTA E QUATRO{!}
+else if (letra == 995)
+    SendInput, NOVECENTOS E NOVENTA E CINCO{!}
+else if (letra == 996)
+    SendInput, NOVECENTOS E NOVENTA E SEIS{!}
+else if (letra == 997)
+    SendInput, NOVECENTOS E NOVENTA E SETE{!}
+else if (letra == 998)
+    SendInput, NOVECENTOS E NOVENTA E OITO{!}
+else if (letra == 999)
+    SendInput, NOVECENTOS E NOVENTA E NOVE{!}
+else if (letra == 1000)
+    SendInput, MIL{!}
+
+
+letra++
